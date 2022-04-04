@@ -1,4 +1,6 @@
 %% Transmission Dynamic Model - Lite Demo Version
+% TransmissionDynamic_Model_Demo.m
+%
 % Version 1.3 STSPOON
 %
 % 'Zombie' virus simulator - Demo
